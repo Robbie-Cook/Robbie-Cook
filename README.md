@@ -13,7 +13,7 @@ or questions. Email me at robbie@robbie.pw!
 
 - ## [@robbie-cook/react-components](https://www.npmjs.com/package/@robbie-cook/react-components)
 
-  A react component library (storybook to come soon).
+  A react component library ([Storybook](reactcomponents.robbie.pw)).
 - ## [magic-memo](https://www.npmjs.com/package/magic-memo)
 
   Async/await complient memoisation library.
