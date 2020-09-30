@@ -1,7 +1,5 @@
 ## Welcome to my profile!
 
-https://www.robbie.pw
-
 I maintain the following open-source packages. I am really keen to take contributions,
 or questions. Email me at robbie@robbie.pw!
 
