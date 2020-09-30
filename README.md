@@ -1,5 +1,3 @@
-# Hello!
-
 ## Welcome to my profile!
 
 https://www.robbie.pw
