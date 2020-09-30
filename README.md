@@ -20,10 +20,6 @@ or questions. Email me at robbie@robbie.pw!
 - ## [scroll-master](https://www.npmjs.com/package/scroll-master)
 
   A reimplementation of [sticky-js](https://rgalus.github.io/sticky-js/) with some features added.
- 
-- ## [scroll-master](https://www.npmjs.com/package/branch-tools)
-
-  A reimplementation of [sticky-js](https://rgalus.github.io/sticky-js/) with some features added.
   
   #
 
