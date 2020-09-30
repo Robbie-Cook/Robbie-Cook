@@ -12,7 +12,7 @@ or questions. Email me at robbie@robbie.pw!
   A react component library ([Storybook](reactcomponents.robbie.pw)).
 - ## [magic-memo](https://www.npmjs.com/package/magic-memo)
 
-  Async/await complient memoisation library.
+  Async/await compliant memoisation library.
 - ## [scroll-master](https://www.npmjs.com/package/scroll-master)
 
   A reimplementation of [sticky-js](https://rgalus.github.io/sticky-js/) with some features added.
