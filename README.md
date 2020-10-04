@@ -9,8 +9,3 @@ or questions. Email me at robbie@robbie.pw!
 - [scroll-master](https://www.npmjs.com/package/scroll-master) - A reimplementation of [sticky-js](https://rgalus.github.io/sticky-js/) with some features added.
 - [name-creator](https://www.npmjs.com/package/name-creator) - Stolen from  [project-name-generator](https://github.com/aceakash/project-name-generator), but actively maintained.
 - [branch-tools](https://www.npmjs.com/package/branch-tools) - Clean your local git branches with ease!
-  
-  
-  #
-
-Open issues and give me feedback! I'm keen to help with forks of my code too!
