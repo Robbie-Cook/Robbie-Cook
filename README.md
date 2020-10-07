@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-I maintain the following open-source packages. I am really keen to take contributions,
+Check out these packages! I am really keen to take contributions,
 or questions. Email me at robbie@robbie.pw!
 
 - [node-extended](https://www.npmjs.com/package/node-extended) - Node helper functions. Especially good for fetch requests with bearer tokens and questioning the user.
