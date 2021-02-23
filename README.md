@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 Check out these packages! I am really keen to take contributions,
-or questions. Email me at robbie@robbie.pw!
+or questions. Email me at robbie@robbie.digital!
 
 - [node-extended](https://www.npmjs.com/package/node-extended) - Node helper functions. Especially good for fetch requests with bearer tokens and questioning the user.
 - [@robbie-cook/react-components](https://www.npmjs.com/package/@robbie-cook/react-components) - A react component library ([Storybook](https://reactcomponents.robbie.pw)).
